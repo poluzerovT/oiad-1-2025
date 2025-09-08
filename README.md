@@ -44,3 +44,6 @@ python -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
+
+## Ссылки на датасеты
+* [teen_phone_addiction_dataset.csv](https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction)
